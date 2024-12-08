@@ -1,3 +1,5 @@
+### [(Assignment 1)](https://amanh41.github.io/CPSC581A1/) [(Individual Project)](https://amanh41.github.io/CPSC581IndividualProject/) [(Assignment 3)](https://amanh41.github.io/CPSC581-A3/) 
+
 # Let's go Gambling 
 
 ### [link to code](https://glitch.com/edit/#!/cactus-scratch-pencil?path=index.html%3A71%3A73)  
